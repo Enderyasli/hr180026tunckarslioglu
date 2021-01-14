@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HR180026_TuncKarsliogluFinal</string>
+
+    <string name="kapat">Kapat</string>
+    <string name="internetac">İnterneti Aç</string>
+    <string name="baglantıyok">İnternet Bağlantınız Yok</string>
+    <string name="internetbagla">Uygulamayı Kullanmak için internete bağlayın</string>
+    <string name="lutfen_bekleyin">Lütfen Bekleyiniz</string>
+    <string name="renk">Renk:</string>
+    <string name="kedisi">Kedisi</string>
+    <string name="vazgec">Vazgeç</string>
+    <string name="uygulamayıKapat">Uygulamayı Kapatmak istiyor musunuz?</string>
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="@dimen/cardviewRadius"
+    android:layout_marginBottom="@dimen/cardviewTopBottomMargin"
+    android:layout_marginRight="@dimen/cardviewLeftRightMargin"
+    android:layout_marginLeft="@dimen/cardviewLeftRightMargin"
+    android:layout_marginTop="@dimen/cardviewTopBottomMargin"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+    <ImageView
+        android:scaleType="fitXY"
+        android:id="@+id/image"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/listeImageBoyut"/>
+
+    <TextView
+        android:id="@+id/baslik"
+        android:layout_marginLeft="@dimen/leftMargin"
+        android:layout_marginTop="@dimen/minimumMargin"
+        android:layout_marginBottom="@dimen/minimumMargin"
+        android:textColor="@color/baslik_renk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/baslikBoyut">
+
+    </TextView>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:text="@string/renk"
+                android:layout_marginLeft="@dimen/leftMargin"
+                android:layout_marginTop="@dimen/minimumMargin"
+                android:layout_marginBottom="@dimen/minimumMargin"
+                android:textColor="@color/baslik_renk"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/normalBoyut">
+
+            </TextView>
+            <TextView
+                android:id="@+id/renk"
+                android:layout_marginLeft="@dimen/leftMargin"
+                android:layout_marginBottom="@dimen/kucukBoyut"
+                android:textColor="@color/baslik_renk"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/renkBoyut">
+
+            </TextView>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

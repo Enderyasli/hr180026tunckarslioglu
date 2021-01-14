@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="theme_color_1">#0278ae</color>
+    <color name="theme_color_2">#51adcf</color>
+    <color name="theme_color_3">#a5ecd7</color>
+    <color name="theme_color_4">#e8ffc1</color>
+    <color name="theme_color_5">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="baslik_renk">#4c96c7</color>
+    <color name="splashRenk">#647494</color>
+</resources>

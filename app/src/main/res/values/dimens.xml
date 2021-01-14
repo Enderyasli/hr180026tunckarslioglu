@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="leftMargin">10dp</dimen>
+    <dimen name="minimumMargin">2dp</dimen>
+    <dimen name="imageBoyut">180dp</dimen>
+    <dimen name="baslikBoyut">20dp</dimen>
+    <dimen name="recyclerMargin">20dp</dimen>
+    <dimen name="listeImageBoyut">200dp</dimen>
+    <dimen name="bekleyinBoyut">18dp</dimen>
+    <dimen name="bekleyinTopMargin">35dp</dimen>
+    <dimen name="renkBoyut">12dp</dimen>
+    <dimen name="normalBoyut">16dp</dimen>
+    <dimen name="kucukBoyut">8dp</dimen>
+    <dimen name="cardviewRadius">8dp</dimen>
+    <dimen name="cardviewTopBottomMargin">20dp</dimen>
+    <dimen name="cardviewLeftRightMargin">10dp</dimen>
+</resources>
