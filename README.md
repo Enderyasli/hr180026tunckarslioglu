@@ -2,7 +2,7 @@
 # Kedi Türleri
 ![appicon](https://github.com/tunckarslioglu/hr180026tunckarslioglu/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 
-Bu uygulamada en sevdiğimiz dostlarımızdan biri olan kedilerin genel özellikleri ve davranışları hakkında çok şey bulacaksınız!
+# Bu uygulamada en sevdiğimiz dostlarımızdan biri olan kedilerin genel özellikleri ve davranışları hakkında çok şey bulacaksınız!
 <h2 id="Çıktılar">Çıktılar</h2>
 <p>
   <img height= "400"  src="https://github.com/tunckarslioglu/hr180026tunckarslioglu/blob/main/Screens/ss1.png" />
