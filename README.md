@@ -16,7 +16,7 @@
 ## Mimari
 ![Architecture](https://github.com/tunckarslioglu/hr180026tunckarslioglu/blob/main/Screens/ss6.png)
 
-## Kullanılan Kütüphaneler
+### Kullanılan Kütüphaneler
 *     "com.github.bumptech.glide:glide:4.11.0"
 *     "com.google.android.material:material:1.2.1"
 *     "androidx.cardview:cardview:1.0.0"
@@ -27,7 +27,7 @@
 *     "com.squareup.okhttp3:logging-interceptor:3.4.1"
 
 
-Lisans
+## Lisans
 --------
 
   Copyright 2021 Tunç Karslıoğlu
